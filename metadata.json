@@ -1,0 +1,6 @@
+{
+  "name": "PyClass Studio · Python 類別與物件互動學習平台",
+  "description": "結合遊戲角色 Hero 藍圖視覺化、封裝與繼承語法解剖、瀏覽器 Pyodide 程式沙盒與隨堂測驗的 Python OOP 互動學習平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
